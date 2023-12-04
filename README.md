@@ -1,2 +1,2 @@
 # aoc
-problems from AOC 2023
+code is written for quickest completion time i.e solutions are going to be sloppy
